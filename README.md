@@ -20,9 +20,12 @@ This is a simple Todo app built using TypeScript and CSS. It allows users to cre
 ## Installation
 
 1. Clone the repository:
-https://github.com/Official-Krish/Todo-App
 
-2. Install dependencies: npm install
+   ```git clone https://github.com/Official-Krish/Todo-App```
+
+3. Install dependencies:
+  
+   ```npm install```
 
 
 ## Usage
