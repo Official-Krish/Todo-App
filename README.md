@@ -50,7 +50,7 @@ Contributions are welcome! Please follow these steps:
 5. Create a new Pull Request.
 
 
-<b><h4>This project is live at https://todo-app-krish-anands-projects.vercel.app/</h4></b>
+<b><h3>This project is live at https://todo-app-krish-anands-projects.vercel.app/</h3></b>
 
 ## License
 
